@@ -10,4 +10,6 @@ public class SpringBootOpenShiftexampleNewApplication {
 		SpringApplication.run(SpringBootOpenShiftexampleNewApplication.class, args);
 	}
 
+	
+	
 }
